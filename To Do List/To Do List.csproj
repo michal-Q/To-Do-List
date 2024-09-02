@@ -25,7 +25,7 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ProductName>To Do List</ProductName>
     <PublisherName>michal</PublisherName>
-    <ApplicationRevision>11</ApplicationRevision>
+    <ApplicationRevision>12</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
